@@ -1,0 +1,1 @@
+print "eraewrawerawerq werwaerawerwaerwerw" == "esererawe waerawerwaerwea"
